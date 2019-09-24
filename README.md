@@ -3,7 +3,7 @@ Audio Amplifier developed during IEEE REC workshops in Winter 2019
 
 Keep the input voltage between 5V to 12V
 
-The Assembled PCB is shown below.
+The assembled PCB is shown below.
 
 
 ![Assembled PCB](https://github.com/parth12894/Audio-Amplifier/blob/master/Assembled%20PCB.jpg)
