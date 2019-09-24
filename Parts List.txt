@@ -1,0 +1,23 @@
+Name	  Value
+R1-R4	      470 ohm
+R5	        80K ohm
+R6-R9	      1.5K ohm
+R10	        10K ohm
+R11	        47K ohm
+R12	        10K ohm
+R13	        100K ohm
+R14	        1M ohm
+R15	        680 ohm
+C1-C5	      0.1 uF
+C6,C7	      1 uF
+C8	        10 uF
+C9	        100 uF
+C10	        220 uF
+LED B	      BLue Led
+LED G1, G2	Green Led
+LED Y	      Yellow Led
+LED R	      Red Led
+DIP8 	      LM386 
+DIP14	      LM339
+Gain Adj.	  4.7K ohm pot.
+Q1	        2N3904
