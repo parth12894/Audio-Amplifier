@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-12T04:09:38Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Ver1"
+        },
+        "Owner": "Parth Patel <parth.b.patel@ryerson.ca>",
+        "Size": {
+            "X": 82.22,
+            "Y": 49.581
+        }
+    }
+}
